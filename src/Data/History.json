@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": " Hcl Technologies",
+      "startDate": "Feb, 2022",
+      "endDate": "Present",
+      "experiences": ["Working on Creating Microservices", "Improving their Product & Services"],
+      "imageSrc": "history/Hcl.jpg"
+    },
+    {
+      "role": "Computer Engineer",
+      "organisation": " VKS University",
+      "startDate": "Nov, 2019",
+      "endDate": "March, 2021",
+      "experiences": ["Offic. Website & Server Managment", "Led their IT Department"],
+      "imageSrc": "history/Veer Kunawar Singh University.png"
+    },
+    {
+      "role": "Digital Marketing Executive",
+      "organisation": " Innovatia",
+      "startDate": "March, 2019",
+      "endDate": "Oct, 2019",
+      "experiences": [
+        "Designing & Developing website",
+        "Data Analysis & Adds Management"
+      ],
+      "imageSrc": "history/Innovatia.png"
+    }
+  ]
+  

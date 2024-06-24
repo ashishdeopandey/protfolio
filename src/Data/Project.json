@@ -1,0 +1,67 @@
+[
+    {
+      "title": "Deutsche Bank : HCL",
+      "imageSrc": "projects/project1.jpg",
+      "description": "As a Consultant, I was working with development team to improve their product and services. Working with their onsite development to resolve the issues in their services.",
+      "skills": ["JAVA", "GIT", "Agile Methodologies"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Northern Western Mutual : HCL",
+      "imageSrc": "projects/project2.jpg",
+      "description": "As a junior developer, I collaborated with the onsite development team to create microservices. These displayed real-time data and facilitated report generation",
+      "skills": ["React", "Node", "AWS", "Git","Agile Methodologies"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Hotel Booking App : HCL",
+      "imageSrc": "projects/project34.jpg",
+      "description": "Developed four standalone microservices with Feign Clients and consolidated them into one service displayed on the Eureka Server.",
+      "skills": ["Java", "Spring REST", "Restful API", "Eureka Server", "SQL", "Git","Swagger API"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Protfolio Building",
+      "imageSrc": "projects/project3.png",
+      "description": "While developing this impressive portfolio website, I harnessed the power of React components, mastered CSS Modules for streamlined styling, and breathed life into the site with captivating CSS animations.",
+      "skills": ["React Js", "Animation", "Advance CSS","Figma","Jason"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Official Website : VKS University",
+      "imageSrc": "projects/vksu.png",
+      "description": "Developed & maintained the official website, mail & VPS servers. Updated & Analysed result data. Updated and created features for the website. Examationa Result and Adimission data were handled by me.",
+      "skills": ["HTML","CSS", "WordPress", "Ms-Excel", "VPS", "Mail Servers"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Academic Project: LAWKEY",
+      "imageSrc": "projects/Lawkey.png",
+      "description": "This was a web platform to help lawyers and their clients interact with one another. The goal was to help users find solutions to their legal problems. This website was one stop soltuion for legal issues.",
+      "skills": ["Java Spring", "SQL", "HTML", "CSS","Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "CMS Websites : Innnovatia",
+      "imageSrc": "projects/innovatia.jpg",
+      "description": "Worked on many websites including (Cosmetofood.in, Aryanveda.in, Nimson.in, Stushi.in, B2Nsattvic.in, Ayuvya (an app providing ayurvedic solutions to common health issues), BitFia (a Crypto Wallet app).",
+      "skills": ["HTML", "CSS", "CMS", "Shopify", "WordPress", "Wix", "Ms Excel", "Photoshop"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Smart India Hackathon 2017",
+      "imageSrc": "projects/project5.png",
+      "description": "Showcased an innovative concept to boost tourism in North East India.The approach focused on highlighting key destinations in North East India through an engaging RPG Android game.",
+      "skills": ["Core Java", "Git", "Wireframing", "Ms-Powerpoint"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
